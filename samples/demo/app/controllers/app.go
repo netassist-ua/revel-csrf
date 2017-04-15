@@ -1,9 +1,9 @@
 package controllers
 
 import (
-    "github.com/revel/revel"
-    "github.com/cbonello/revel-csrf/samples/demo/app/routes"
-    "fmt"
+	"fmt"
+	"github.com/netassist-ua/revel-csrf/samples/demo/app/routes"
+	"github.com/revel/revel"
 )
 
 type App struct {
