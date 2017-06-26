@@ -2,7 +2,7 @@ package app
 
 import (
 	"github.com/netassist-ua/revel-csrf"
-	"github.com/revel/revel"
+	"github.com/netassist-ua/revel"
 )
 
 func init() {

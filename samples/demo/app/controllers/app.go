@@ -3,7 +3,7 @@ package controllers
 import (
 	"fmt"
 	"github.com/netassist-ua/revel-csrf/samples/demo/app/routes"
-	"github.com/revel/revel"
+	"github.com/netassist-ua/revel"
 )
 
 type App struct {
