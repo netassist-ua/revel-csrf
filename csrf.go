@@ -5,7 +5,7 @@ package csrf
 
 import (
 	"crypto/subtle"
-	"github.com/revel/revel"
+	"github.com/netassist-ua/revel"
 	"net/url"
 	"regexp"
 )
